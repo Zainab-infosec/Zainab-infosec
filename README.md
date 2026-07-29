@@ -1,5 +1,5 @@
 # Zainab Afzal
-**Final Year BSc (Hons) Cyber Security | GDG Lead Organizer**
+**Final Year BSc (Hons) Cyber Security | Former GDG Lead Organizer**
 
 ---
 

@@ -1,15 +1,23 @@
-## Hi there 👋
+# Zainab Afzal
+**Final Year BSc (Hons) Cyber Security | GDG Lead Organizer**
 
-<!--
-**Zainab-hash87/zainab-hash87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started
+### [!] PROFILE OVERVIEW
+Senior undergraduate cybersecurity researcher and developer specializing in secure systems engineering, network threat modeling, and applied machine learning. Proven leadership as Google Developer Groups (GDG) Lead Organizer, bridging the gap between secure architecture design and practical software development.
 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [!] CORE COMPETENCIES & TECH STACK
+* **Offensive & Defensive Security:** Vulnerability Assessment, Threat Modeling, Digital Forensics, Kali Linux, Security Testing
+* **Network Infrastructure:** Enterprise Network Architecture Design, Subnetting & Traffic Analysis (Cisco Packet Tracer)
+* **Software Engineering:** Python (OOP, Automation Scripts, Tkinter GUI Development), Matplotlib, Modular System Architecture
+* **Applied Machine Learning:** Analytical Data Modeling, Research & Scripting for Multi-Centre Healthcare / Cardiovascular AI Models
+
+### [!] ACADEMIC & RESEARCH FOCUS
+* **BSc (Hons) Cyber Security:** Final Year, Bath Spa University
+* **Certifications Track:** Actively pursuing industry-standard credentials (ISC2 CC, Microsoft Security Protocols, Fortinet Fundamentals)
+
+---
+
+### [!] PROFESSIONAL CONTACT
+* **LinkedIn:** https://www.linkedin.com/in/zainab-afzal-cyber/
+* **Public Key / Portfolio:** Review pinned security and engineering repositories below.
